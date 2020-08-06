@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RempahNusantara</string>
+    <string name="nama_rempah">Nama Rempah</string>
+    <string name="nama">Amarilis Khairina M</string>
+    <string name="email">marilis.mardiyah@gmail.com</string>
+    <string name="khasiat">Khasiat :</string>
+    <string name="harga">Harga :</string>
+    <string name="deskripsi">Deskripsi :</string>
+</resources>
